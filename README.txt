@@ -1,7 +1,7 @@
 --------- READ ME -----------
 
 ## About:
-This is a simple program that computes vector angle, length and addition.
+This is a simple program that contains function to compute vector angle, length and addition.
 
 The three functions are tested using blackbox testing. 
 
