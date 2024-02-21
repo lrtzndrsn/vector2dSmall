@@ -1,4 +1,4 @@
-## Read me 
+--------- READ ME -----------
 
 ## About:
 This is a simple program that computes vector angle, length and addition.
